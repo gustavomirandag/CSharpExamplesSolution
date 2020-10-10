@@ -6,6 +6,7 @@ namespace NotificationsConsoleApp
     {
         static void Main(string[] args)
         {
+
             int option = 4;
 
             do
